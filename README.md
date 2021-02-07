@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**mikenavarroro/mikenavarroro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a mexican 🇲🇽 developer and lover of Machine Learning
+and Artificial Intelligence (although at the moment
+    I don't know much)
 
-Here are some ideas to get you started:
+I enjoy sports, to play videogames and the
+music 🎸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming languages
+- Python
+- C
+- Java
+- Swift
+
+### Sports
+- Tae Kwon Do
+- Swimming
+- Soccer (sometimes)
+
+### Contact
+- :bird:: @MikeNavarroR
+- :camera:: @mikenavarroro
+- :envelope:: mike.navarroro@gmail.com
