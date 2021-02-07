@@ -7,7 +7,7 @@ and Artificial Intelligence (although at the moment
 I enjoy sports, to play videogames and the
 music 🎸
 
-## Programming languages
+### Programming languages
 - Python
 - C
 - Java
